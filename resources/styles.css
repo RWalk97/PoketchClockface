@@ -1,0 +1,12 @@
+#page {
+  fill: black;
+}
+
+.min-hand {
+  x: -3;
+  y: -75;
+}
+.hour-hand {
+  x: -6;
+  y: -42;
+}
